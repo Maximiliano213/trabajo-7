@@ -24,4 +24,5 @@ El menú de navegación horizontal facilita recorrer las distintas secciones del
 
 ## 🚀 Cómo visualizar
 1. Abrir el archivo index.html en un navegador.
-2. O bien acceder a la versión publicada en GitHub Pages:
+2. O bien acceder a la versión publicada en GitHub Pages: https://github.com/Maximiliano213/trabajo-7.git
+
